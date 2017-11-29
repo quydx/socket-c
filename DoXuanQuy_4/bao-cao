@@ -1,0 +1,4 @@
+Su dung server: ./server
+Su dung client: ./client <ip_server>
+
+Mo ta : Client ket noi den server , nhap ten file , server doc moi 1024 byte va tra ve cho client, client doc va ghi vao file tai client.
